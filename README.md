@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently learning HTML, CSS, JavaScript, ReactJS.
-- 📫 How to reach me: dielebaraujo@hotmail
+- 📫 Email: dielebaraujo@hotmail
 <!--
 **dielebaraujo/dielebaraujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
